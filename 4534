@@ -1,0 +1,38 @@
+
+([
+  {
+   block : 'radio ' 
+   
+   contend :' qqqq'
+   
+    },
+    {
+    
+      block 'radio' ,
+      
+      mods :{checked: ture} ,
+      
+      contend : [  
+      
+      
+             'fdhdf'
+             
+             'hfdhf'
+             
+        
+        ] .mop((i , idx )=> ' $ {idx} . ${i}')
+        
+     }
+}, 
+
+ {
+ 
+ 
+  block  'radio'   
+       
+ 
+ 
+ 
+ 
+ 
+ 
